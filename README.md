@@ -1,5 +1,5 @@
 # Hi, I'm Stanislav 👋
-The average software engineer has 1 year of commercial development experience. I have excellent knowledge in the field of Frontend development in JavaScript and initial knowledge in the field of Backend in Node Js.
+The middle software engineer has 1 year of commercial development experience. I have excellent knowledge in the field of Frontend development in JavaScript and initial knowledge in the field of Backend in Node Js.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=STARGUS&show_icons=true&count_private=true"><img
