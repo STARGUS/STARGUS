@@ -10,7 +10,7 @@ The average software engineer has 1 year of commercial development experience. I
 </p>
 
 <p align='center'>
-   <a href="https://t.me/joinchat/Stivenmorr">
+   <a href="https://t.me/stivenmorr">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
