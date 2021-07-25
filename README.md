@@ -20,7 +20,7 @@ The average software engineer has 1 year of commercial development experience. I
 
 
 ## 🛠 Technical Stack
-*   JavaScript/HTML5/CSS3/Sass/Node Js/ languages
+*   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>JavaScript/HTML5/CSS3/Sass/Node Js/ languages
 *   MySQL, PostgreSQL, MongoDB,  DynamoDB, GCS and so on...
 *   GitHub/GitLab/Gerrit
 
@@ -28,8 +28,8 @@ The average software engineer has 1 year of commercial development experience. I
 
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   <a href="https://github.com/STARGUS/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=STARGUS&color=DE002D">
    </a>
 </div>
 
