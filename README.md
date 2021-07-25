@@ -2,7 +2,7 @@
 The average software engineer has 1 year of commercial development experience. I have excellent knowledge in the field of Frontend development in JavaScript and initial knowledge in the field of Backend in Node Js.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=STARGUS&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=STARGUS&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/STARGUS/github-readme-stats"><img height=150
@@ -14,7 +14,7 @@ The average software engineer has 1 year of commercial development experience. I
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:stanislav.morr@gmail.com'>stanislav.morr@gmail.com</a>
+   📫  How to reach me: <a href='mailto:stanislav.morr@gmail.com'>stanislav.morr@gmail.com</a>
 </p>
 
 
