@@ -29,7 +29,7 @@ The middle software engineer has 1 year of commercial development experience. I 
 ### My opensource projects
 
 * According to experience, there are ready-made solutions for the project of one of the largest production networks of farms located in Moscow. 
-<a href="https://github.com/STARGUS/github-profile-views-counter">my experience Lukino.ru </a>
+<a href="https://lukino.ru">my experience Lukino.ru </a>
 
 
 <div align="center" style="margin: 40px 0">
