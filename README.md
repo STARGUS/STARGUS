@@ -22,7 +22,7 @@ The middle software engineer has 1 year of commercial development experience. I 
 ## 🛠 Technical Stack
 
 
-*   JavaScript / HTML5 / CSS3 / Sass / Node Js / languages
+*   JavaScript / HTML5 / CSS3 / Sass / Node Js - Express / languages
 *   MySQL, PostgreSQL, MongoDB,  DynamoDB, GCS and so on...
 *   GitHub / GitLab / Gerrit
 
