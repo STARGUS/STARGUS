@@ -33,7 +33,7 @@ The middle software engineer has 1 year of commercial development experience. I 
 
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/STARGUS/github-profile-views-counter">
+   <a href="https://github.com/STARGUS/">
        <img width="175px" src="https://komarev.com/ghpvc/?username=STARGUS&color=DE002D">
    </a>
 </div>
