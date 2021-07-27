@@ -1,7 +1,7 @@
 # Hi, I'm Stanislav 👋
 <p>The middle software engineer has 1 year of commercial development experience. I have excellent knowledge in the field of Frontend development in JavaScript and initial knowledge in the field of Backend in Node Js.</p>
 <p>
-   The main stack is executed using the React library and auxiliary components such as Redux, Express, and so on...</p>
+   The main stack is executed with the React library and auxiliary components such as Redux, Express, and so on...</p>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=STARGUS&show_icons=true&count_private=true"><img
