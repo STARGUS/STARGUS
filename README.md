@@ -1,5 +1,7 @@
 # Hi, I'm Stanislav 👋
-The middle software engineer has 1 year of commercial development experience. I have excellent knowledge in the field of Frontend development in JavaScript and initial knowledge in the field of Backend in Node Js.
+<p>The middle software engineer has 1 year of commercial development experience. I have excellent knowledge in the field of Frontend development in JavaScript and initial knowledge in the field of Backend in Node Js.</p>
+<p>
+   The main stack is executed using the React library and auxiliary components such as Redux, Express, and so on...</p>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=STARGUS&show_icons=true&count_private=true"><img
@@ -22,7 +24,7 @@ The middle software engineer has 1 year of commercial development experience. I 
 ## 🛠 Technical Stack
 
 
-*   JavaScript / HTML5 / CSS3 / Sass / Node Js - Express / languages
+*   JavaScript / HTML5 / CSS3 / Sass / Node Js / languages
 *   MySQL, PostgreSQL, MongoDB,  DynamoDB, GCS and so on...
 *   GitHub / GitLab / Gerrit
 
