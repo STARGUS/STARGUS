@@ -1,5 +1,5 @@
 # Привет, меня зовут Станислав 👋
-<p>The middle software engineer has 1 year of commercial development experience. I have excellent knowledge in the field of Frontend development in JavaScript and initial knowledge in the field of Backend in Node Js.</p>
+<p>The middle software engineer has 1 year of commercial development experience. I have excellent knowledge in the field of Frontend and Backend development in JavaScript.</p>
 <p>
    The main stack is executed with the React library and auxiliary components such as Redux, Express, and so on...</p>
 
@@ -24,7 +24,8 @@
 ## 🛠 Technical Stack
 
 
-*   JavaScript / HTML5 / CSS3 / Sass / Node Js / languages
+*   JavaScript / HTML5 / CSS3 / Sass / Node Js / Typescript
+*   React / React-Hooks / Express / Nest Js 
 *   MySQL, PostgreSQL, MongoDB,  DynamoDB, GCS and so on...
 *   GitHub / GitLab / Gerrit
 
