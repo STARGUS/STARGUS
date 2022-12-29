@@ -1,7 +1,7 @@
 # Привет, меня зовут Станислав 👋
-<p>The middle software engineer has 1 year of commercial development experience. I have excellent knowledge in the field of Frontend and Backend development in JavaScript.</p>
+<p>The middle software engineer has 2 year of commercial development experience. I have excellent knowledge in the field of Frontend and Backend development in JavaScript.</p>
 <p>
-   The main stack is executed with the React library and auxiliary components such as Redux, Express, and so on...</p>
+   The main stack is executed with the React, express and Nestjs library and auxiliary components such as Redux, and so on...</p>
 
 <p align='center'>
    <a href="https://t.me/stivenmorr">
