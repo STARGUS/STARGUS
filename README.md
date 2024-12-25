@@ -1,5 +1,5 @@
 # Hello, my name is Stanislav 👋
-<p>Mid-level software engineer, I have experience in commercial development since 2021. I have excellent knowledge in Frontend and Backend development in JavaScript.</p>
+<p>Middle software engineer, I have experience in commercial development since 2021. I have excellent knowledge in Frontend and Backend development in JavaScript.</p>
 <p>
 The main stack is implemented using React, Express and Nestjs libraries, as well as auxiliary components such as Redux, etc....</p>
 <p>
